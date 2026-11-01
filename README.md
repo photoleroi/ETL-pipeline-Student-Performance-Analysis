@@ -92,8 +92,6 @@ Ausgabe: `analysis_results.csv` und die Plots als PNG (`hexbin_3_variablen.png`)
 
 ## Lizenz
 
-`<z. B. MIT>`
+`<free>`
 
-## Autor
 
-`<Name>`

@@ -2,7 +2,7 @@
 
 Explorative Analyse eines Datensatzes mit 1.000.000 Studierenden: Wie hängen **Selbststudium**, **Anwesenheit** und **Gesamtpunktzahl** zusammen?
 
-![Hexbin-Plot: Ø Punktzahl nach Selbststudium und Anwesenheit](images/hexbin_3_variablen.png)
+![Hexbin-Plot: Ø Punktzahl nach Selbststudium und Anwesenheit](hexbin_3_variablen.png)
 
 ## Inhalt
 
@@ -92,8 +92,6 @@ Ausgabe: `analysis_results.csv` und die Plots als PNG (`hexbin_3_variablen.png`)
 
 ## Lizenz
 
-`<z. B. MIT>`
+`<free>`
 
-## Autor
 
-`<Name>`
